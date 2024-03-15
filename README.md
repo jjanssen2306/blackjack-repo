@@ -33,4 +33,11 @@ Welke taal wil je de aplicatie (nederlans/ engels)
 engels
 
 Met of zonder Insurance
-ja
+instellen
+
+Met welke hoeveelheeden an punten/chips wort er het meest bij u gewerkt
+1 5 en 10
+
+Min of max inzet per ronde
+Instellen tot max 10
+
